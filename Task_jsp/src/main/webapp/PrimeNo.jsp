@@ -24,7 +24,7 @@
 
                 if (isPrime) {
         %>
-                    <%= num %>
+                   <li> <%= num %> </li>
         <% 
                 }
             } 
